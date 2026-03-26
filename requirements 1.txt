@@ -1,9 +1,0 @@
-
-# ===============================
-# requirements.txt
-# ===============================
-# (guardar como archivo separado)
-# ===============================
-
-streamlit
-matplotlib
